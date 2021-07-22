@@ -5,6 +5,7 @@ Having merged with The Stars Group in 2020, Flutter Entertainment now has a host
 - 📫 You can reach me through tiago.ferreira@blip.pt / www.linkedin.com/in/tiagojaferreira/ or apply directly at www.blip.pt/jobs
 - 🌱 I’m actually learning how to develop a game using Unity and C#. Pray for me 😝
 
+![cat](https://user-images.githubusercontent.com/73248223/126646495-f5cb0af1-1534-48dd-9f01-eda87e0278b3.gif)
 
 <!---
 tiagojaferreira97/tiagojaferreira97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
