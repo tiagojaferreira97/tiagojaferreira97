@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Tiago, Talent Acquisition at Blip.pt, Oporto.
-- 🏤Blip is a top of the edge software engineering company with a difference. Founded in 2009, we already are 350+. And we’re always growing. We are part of Flutter Entertainment, a global sports betting, gaming and entertainment provider for over thirteen million customers worldwide.
-Having merged with The Stars Group in 2020, Flutter Entertainment now has a host of brands that sit under it including Paddy Power and Betfair (PPB), Sky Betting and Gaming, PokerStars, TVG and FanDuel in the US.
-- 💞️ I’m looking to talented developers with experience in Java, to collaborate in the development and maintenance of high scalability and low latency systems (you will be able to learn in depth about Kafka, Cassandra, etc...)
-- 📫 You can reach me through tiago.ferreira@blip.pt / www.linkedin.com/in/tiagojaferreira/ or apply directly at www.blip.pt/jobs
+- 👋 Hi, I’m Tiago, Glopal Talent Acquisition at OLX Group.
+- 🏤 OLX Group is a global product and tech company with over 20 brands, +10.000 people, and one mindset. We empower people to upgrade their lives. Our mission is to make it super easy for people to buy and sell almost anything, boosting local economies.
+- 💞️ I’m looking to talented developers with experience in Mobile Development (Android - Kotlin & Redux; iOS - Swift/Objective C, extra points for Cocoapods) to collaborate closely with Frontend & Backend engineers, SRE, Product team, Data Analysts, and an Engineering Manager to build one of the newest distributed systems we have in the company.
+- 📫 You can reach me through tiago.almeida@olx.com / www.linkedin.com/in/tiagojaferreira/ or apply directly at https://careers.olxgroup.com/
 - 🌱 I’m actually learning how to develop a game using Unity and C#. Pray for me 😝
 
 ![cat](https://user-images.githubusercontent.com/73248223/126646495-f5cb0af1-1534-48dd-9f01-eda87e0278b3.gif)
